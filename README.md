@@ -31,6 +31,18 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - ⚡ Performance optimization (VertiPaq analyzer)
 - ☁️ Power BI service deployment
 
+### 🔹 Dashboard Views
+
+### 🏠 Home Page
+https://github.com/priyajain432/Credit-Card-Financial-Dashboard/tree/main#:~:text=Credit%20Card%20Customer%20Report.pdf
+
+### 📈 Marketing View
+![Marketing View](https://github.com/priyajain432/Business-Insights-360/blob/af7385e9ebc338bdfef738f142fa8ca1c538ca1a/Marketing%20View.png?raw=true)
+
+### 📊 Sales View
+![Sales View](https://github.com/priyajain432/Business-Insights-360/blob/af7385e9ebc338bdfef738f142fa8ca1c538ca1a/Sales%20View.png?raw=true)
+
+
 ---
 
 ## ✅ Project Outcome
