@@ -34,7 +34,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 ### 🔹 Dashboard Views
 
 ### 🏠 Home Page
-(https://github.com/priyajain432/Credit-Card-Financial-Dashboard/tree/main#:~:text=Credit%20Card%20Customer%20Report.pdf?raw=true)
+https://github.com/priyajain432/Credit-Card-Financial-Dashboard/blob/main/Credit%20Card%20Customer%20Report.pdf
 
 ### 📈 Marketing View
 ![Marketing View](https://github.com/priyajain432/Business-Insights-360/blob/af7385e9ebc338bdfef738f142fa8ca1c538ca1a/Marketing%20View.png?raw=true)
