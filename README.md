@@ -31,6 +31,8 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - ⚡ Performance optimization (VertiPaq analyzer)
 - ☁️ Power BI service deployment
 
+![Transaction Report](https://raw.githubusercontent.com/priyajain432/Credit-Card-Financial-Dashboard/main/Credit%20Card%20Transaction%20Report.png)
+
 
 ---
 
